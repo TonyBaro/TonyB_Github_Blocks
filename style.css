@@ -25,7 +25,7 @@ h1{
     background-color: rgb(27,27,27);
     text-align: center;
 }
-.firstrow{
+.outerrow{
     height:250px;
     display: flex;
     background-color: #292929;
@@ -35,7 +35,7 @@ h1{
     border-radius: 10px;
     box-shadow: 5px 5px #808080;
 }
-.secondrow{
+.middlerow{
     height:250px;
     display: flex;
     background-color: #808080;
@@ -44,14 +44,4 @@ h1{
     margin: 25px 10px;
     border-radius: 10px;
     box-shadow: 5px 5px #ffa31a;
-}
-.thirdrow{
-    height:250px;
-    display: flex;
-    background-color: #292929;
-    align-items: center;
-    justify-content: space-evenly;
-    margin: 25px 10px;
-    border-radius: 10px;
-    box-shadow: 5px 5px #808080;
 }
